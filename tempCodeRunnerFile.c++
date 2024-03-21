@@ -1,1 +1,0 @@
- cout<<"enter the sorting element in the array"<<endl;
